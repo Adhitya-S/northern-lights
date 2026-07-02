@@ -481,7 +481,7 @@ function LeadForm() {
           <div className="text-xs uppercase tracking-[0.3em] text-gold">Reserve Your Site Visit</div>
           <h2 className="font-display text-4xl md:text-6xl">Your new address <br /> awaits <span className="italic text-gold-gradient">a hello</span>.</h2>
           <p className="text-muted-foreground max-w-lg mx-auto">
-            Talk to our senior consultant Deepak Gadge. Get exclusive launch pricing,
+            Talk to our senior consultant Mohan Kowshik. Get exclusive launch pricing,
             unit availability & priority floor plan access.
           </p>
           <div className="max-w-md mx-auto">
@@ -516,7 +516,7 @@ function Footer() {
         </div>
         <div className="space-y-2">
           <div className="text-xs uppercase tracking-widest text-gold">Contact</div>
-          <div className="text-muted-foreground">Deepak Gadge — Purva Group</div>
+          <div className="text-muted-foreground">Mohan Kowshik — Purva Group</div>
           <a href={`tel:${PHONE}`} className="block hover:text-gold">+91 {PHONE}</a>
           <a href={WHATSAPP} target="_blank" rel="noreferrer" className="block hover:text-gold">WhatsApp us</a>
         </div>
